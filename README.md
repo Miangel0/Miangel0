@@ -18,8 +18,8 @@ Actualmente soy **estudiante de noveno semestre de Ingeniería de Sistemas** y d
 ### 👨‍💻 Lenguajes
 <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
 </p>
 
 ### 🧰 Frameworks y Librerías
