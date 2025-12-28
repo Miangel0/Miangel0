@@ -22,12 +22,18 @@ Actualmente soy **estudiante de noveno semestre de Ingeniería de Sistemas** y d
     <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
 </p>
 
+### ⚙️ Entornos de ejecución
+<p>
+    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white">
+</p>
+
 ### 🧰 Frameworks y Librerías
 <p>
     <img alt="Astro" src="https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white">
     <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
-    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white">
+    <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white">
 </p>
+
 
 ### 🗄️ Bases de Datos
 <p>
