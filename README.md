@@ -1,15 +1,13 @@
 
 # 👋 ¡Hola! Soy Miguel Ángel  
 
-💻 **Desarrollador de Software | Apasionado por resolver problemas**  
+💻 **Ingeniero de Sistemas**  
 📍 Cali, Colombia  
 
 ---
 
 ## 🚀 Sobre mí
-Soy **desarrollador de software** apasionado por los problemas y, sobre todo, por encontrar soluciones. Desde mis primeros pasos en el desarrollo de software, he explorado diferentes áreas: **desarrollo web**, **aplicaciones móviles** y, más recientemente, **inteligencia artificial**, para crear proyectos más potentes e innovadores.  
-
-Actualmente soy **estudiante de noveno semestre de Ingeniería de Sistemas** y disfruto cada etapa del proceso de desarrollo, desde la idea inicial hasta la implementación final.  
+Soy **Miguel** apasionado por los problemas y, sobre todo, por encontrar soluciones. Desde mis primeros pasos en la ingenieria de sistemas, he explorado diferentes áreas: **desarrollo web**, **aplicaciones móviles** y, más recientemente, **inteligencia artificial**, para crear proyectos más potentes e innovadores.  
 
 ---
 
