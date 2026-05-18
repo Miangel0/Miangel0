@@ -49,16 +49,6 @@ Soy **Miguel** apasionado por los problemas y, sobre todo, por encontrar solucio
 
 ---
 
-## 📌 Experiencia y Proyectos
-
-He trabajado en **proyectos universitarios** y también en **proyectos para clientes externos**:
-
-- [**Conectando Capacidades**](https://github.com/Miangel0/conectando-capacidades) → Proyecto universitario en Python.  
-- [**Sage Business Advisors**](https://github.com/Miangel0/Sage-Business-Advisors) → Pagina web para una empresa americana.  
-- [**Asordam**](https://github.com/Miangel0/asordam) → Página web para una asociación de recicladores.  
-
----
-
 ## 🌱 Actualmente
 - Aprendiendo **Node.js** y **React** para ampliar mis habilidades en desarrollo full stack.
 - Explorando la **inteligencia artificial** para aplicarla en proyectos innovadores.
@@ -69,8 +59,7 @@ He trabajado en **proyectos universitarios** y también en **proyectos para clie
 ## 📫 Conecta conmigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/miguel-angel-sandoval-manrique-15a773256/)  
 - 📧 **miguelsandoman@gmail.com**  
-- 🌐 [Portafolio Web](https://miguel-dev.netlify.app/)
 
 ---
 
-✨ *“Lo mejor del desarrollo de software es cuando porfin funciona el codigo :D.”*
+🪐 *“Lo mejor del desarrollo de software es cuando porfin funciona el codigo :D.”*
